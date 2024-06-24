@@ -13,6 +13,7 @@ Name | Comments
 [terraforming](https://github.com/dtan4/terraforming) | "Export existing AWS resources to Terraform style (tf, tfstate)"
 [terrascan](https://github.com/tenable/terrascan) | "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure"
 [terraform-kvm](https://github.com/dmacvicar/terraform-provider-libvirt) | "It's a one Terraform Provider for KVM"
+[terraform roadmap](https://roadmap.sh/terraform) | "An in-depth Terraform roadmap from roadmap.sh"
 
 ### Best Practices
 
